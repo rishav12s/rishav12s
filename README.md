@@ -38,7 +38,7 @@
 
 <img align="right" height="145" src="./gifs/anime-dance.gif"  />
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31e44ifw4p5bw5fuiymq2piulnfu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e44ifw4p5bw5fuiymq2piulnfu&count=2&unique=true" alt="Spotify recently played"  />
   </a>
