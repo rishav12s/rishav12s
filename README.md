@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="148" src="https://camo.githubusercontent.com/0229b9a70223604f859b07d927ddbc467a6d3ec84e33b6eb08b6a7c84af72139/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f61352f66642f36656135666435393834373766346562363232353366633330303430333963612e676966"  />
+<img align="right" height="170" src="https://camo.githubusercontent.com/0229b9a70223604f859b07d927ddbc467a6d3ec84e33b6eb08b6a7c84af72139/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f61352f66642f36656135666435393834373766346562363232353366633330303430333963612e676966"  />
 
 <h6 align="left">🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!  <br>💻 B.Tech CSE Student | Exploring Web Dev & Programming  <br>🎨 Customizing UI & UX | Arch Linux Enthusiast BTW  <br>🎶 Vibing to Music<br><br>🌟 Always learning, always building! 🚀</h6>
 
