@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="190" src="https://tenor.com/view/anime-dance-happy-girl-gif-17302524"  />
+<img align="right" height="145" src="./gifs/anime-dance.gif"  />
 
 <div align="left">
   <a href="https://open.spotify.com/user/31e44ifw4p5bw5fuiymq2piulnfu">
