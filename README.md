@@ -36,7 +36,9 @@
 
 ###
 
-<div align="center">
+<img align="right" height="190" src="https://tenor.com/view/anime-dance-happy-girl-gif-17302524"  />
+
+<div align="left">
   <a href="https://open.spotify.com/user/31e44ifw4p5bw5fuiymq2piulnfu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e44ifw4p5bw5fuiymq2piulnfu&count=2&unique=true" alt="Spotify recently played"  />
   </a>
