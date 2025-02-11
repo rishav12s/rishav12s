@@ -44,6 +44,23 @@
   </a>
 </div>
 
+```
+
+           .             ​ eternal@world 
+          .c.           ┌───────────────────────────────┐ 
+         .ccc.           ​ OS : Arch Linux
+        .lllll.          ​ Kernel : linux-zen 6.14 
+       ..;'olll.         ​ WM : Hyprland 
+      .dolllcccl.        ​ Shell : fish
+     .lcc'   'ccc.       ​ Uptime : 23 years
+    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+   .cccc'     'c:;..    └───────────────────────────────┘ 
+  ."'             '".     E   T   E   R   N   A   L   火 
+
+arch in ~ 
+  λ echo "Stay Determined!"
+```
+
 ###
 
 <div align="center">
